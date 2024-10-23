@@ -8,9 +8,9 @@ I would like to analyze the inside of csv datasets about what influences the com
 5. Try to use some methods to help accelerate the compression time.
 I will do the things above and make a final report, which can help people improve compression efficiency.
 
-Execution Plan:
+Execution Plan: <br>
 Week 4: prepare all the needed datasets, from some public resources like kaggle. <br>
-Week 5: Implement 3 compression methods in Python and see their performance with different datasets.
-Week 6: Find some methods to help increase the compression rate, e.g. clustering or classification.
-Week 7: Find some methods to help accelerate the compression time, e.g. pypy.
+Week 5: Implement 3 compression methods in Python and see their performance with different datasets. <br>
+Week 6: Find some methods to help increase the compression rate, e.g. clustering or classification. <br>
+Week 7: Find some methods to help accelerate the compression time, e.g. pypy. <br>
 Week 8: Conclude the findings and prepare a final report.
