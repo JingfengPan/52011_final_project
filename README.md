@@ -15,7 +15,7 @@ Week 6: Find some methods to help increase the compression rate, e.g. clustering
 Week 7: Find some methods to help accelerate the compression time, e.g. pypy. <br>
 Week 8: Conclude the findings and prepare a final report.
 
-To run the experiment, just run the main function in the "main.py" file.
+</b>To run the experiment, just run the main function in the "main.py" file.</b>
 
 Process of my experiment
 1. Clean and filter data, select useful columns (numeric and category here).
