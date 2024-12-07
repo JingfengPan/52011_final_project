@@ -8,12 +8,12 @@ I would like to analyze the inside of csv datasets about what influences the com
 5. Try to use some methods to help accelerate the compression time.
 I will do the things above and make a final report, which can help people improve compression efficiency.
 
-Execution Plan:
-Week 4: prepare all the needed datasets, from some public resources like kaggle.
-Week 5: Implement 3 compression methods in Python and see their performance with different datasets.
-Week 6: Find some methods to help increase the compression rate, e.g. clustering or classification.
-Week 7: Find some methods to help accelerate the compression time, e.g. pypy.
-Week 8: Conclude the findings and prepare a final report.
+Execution Plan:<br>
+Week 4: prepare all the needed datasets, from some public resources like kaggle.<br>
+Week 5: Implement 3 compression methods in Python and see their performance with different datasets.<br>
+Week 6: Find some methods to help increase the compression rate, e.g. clustering or classification.<br>
+Week 7: Find some methods to help accelerate the compression time, e.g. pypy.<br>
+Week 8: Conclude the findings and prepare a final report.<br>
 
 <b>To run the experiment, just run the main function in the "main.py" file.</b>
 
@@ -26,4 +26,4 @@ Process of my experiment
 6. Explore the raltionship of different classifiers and compression ratio.
 7. Explore the raltionship of train size and compression ratio.
 
-The link of downloading the datasets: shttps://drive.google.com/drive/folders/1UoQBW4KKNyCNKGbEKDz4TqpgysoUuI_A?usp=drive_link
+<b>The link of downloading the datasets: shttps://drive.google.com/drive/folders/1UoQBW4KKNyCNKGbEKDz4TqpgysoUuI_A?usp=drive_link</b>
