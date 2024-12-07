@@ -1,0 +1,1016 @@
+--------------------------------------------------------------------------------------------
+
+Dataset: orders
+
+Compression method: gzip
+Comp Ratio: 3.587165199353363
+Comp Time: 12.7543785572052s
+
+Compression method: lz4
+Comp Ratio: 2.1650485446758676
+Comp Time: 0.708977222442627s
+
+Compression method: zstd
+Comp Ratio: 3.380769975922162
+Comp Time: 1.104006290435791s
+
+--------------------------------------------------------------------------------------------
+
+Clustering:
+
+4 clusters:
+
+Compression method: gzip
+Comp Ratio: 3.7465870332673368
+Comp Time: 7.545281887054443s
+
+Compression method: lz4
+Comp Ratio: 2.2229673448215665
+Comp Time: 4.924823999404907s
+
+Compression method: zstd
+Comp Ratio: 3.5754042032879627
+Comp Time: 5.065022230148315s
+
+6 clusters:
+
+Compression method: gzip
+Comp Ratio: 3.7434081822464336
+Comp Time: 5.932398080825806s
+
+Compression method: lz4
+Comp Ratio: 2.2169898557709327
+Comp Time: 4.106517553329468s
+
+Compression method: zstd
+Comp Ratio: 3.5664267806904446
+Comp Time: 4.175382137298584s
+
+8 clusters:
+
+Compression method: gzip
+Comp Ratio: 3.7366244952634036
+Comp Time: 5.820402145385742s
+
+Compression method: lz4
+Comp Ratio: 2.2111001841007814
+Comp Time: 3.9283177852630615s
+
+Compression method: zstd
+Comp Ratio: 3.560294052957705
+Comp Time: 3.9946441650390625s
+
+10 clusters:
+
+Compression method: gzip
+Comp Ratio: 3.7364899978532717
+Comp Time: 4.5559422969818115s
+
+Compression method: lz4
+Comp Ratio: 2.208966043859751
+Comp Time: 3.6702463626861572s
+
+Compression method: zstd
+Comp Ratio: 3.5585046870622383
+Comp Time: 3.6958389282226562s
+
+12 clusters:
+
+Compression method: gzip
+Comp Ratio: 3.7344497250191595
+Comp Time: 4.960599660873413s
+
+Compression method: lz4
+Comp Ratio: 2.206649289874437
+Comp Time: 3.6162636280059814s
+
+Compression method: zstd
+Comp Ratio: 3.555510854099642
+Comp Time: 3.7254953384399414s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: partsupp
+
+Compression method: gzip
+Comp Ratio: 4.164848836481552
+Comp Time: 8.833579778671265s
+
+Compression method: lz4
+Comp Ratio: 2.261516679794547
+Comp Time: 0.41181159019470215s
+
+Compression method: zstd
+Comp Ratio: 3.655080624966541
+Comp Time: 0.682603120803833s
+
+--------------------------------------------------------------------------------------------
+
+Clustering:
+
+4 clusters:
+
+Compression method: gzip
+Comp Ratio: 4.315984323706778
+Comp Time: 4.15480899810791s
+
+Compression method: lz4
+Comp Ratio: 2.334125024662589
+Comp Time: 1.8293569087982178s
+
+Compression method: zstd
+Comp Ratio: 3.7867306132844587
+Comp Time: 1.900028944015503s
+
+6 clusters:
+
+Compression method: gzip
+Comp Ratio: 4.3131453316277035
+Comp Time: 3.072948455810547s
+
+Compression method: lz4
+Comp Ratio: 2.332571339790226
+Comp Time: 1.6362662315368652s
+
+Compression method: zstd
+Comp Ratio: 3.7870086005124084
+Comp Time: 1.7340679168701172s
+
+8 clusters:
+
+Compression method: gzip
+Comp Ratio: 4.30741071674585
+Comp Time: 2.976006269454956s
+
+Compression method: lz4
+Comp Ratio: 2.3293348636939997
+Comp Time: 1.57120680809021s
+
+Compression method: zstd
+Comp Ratio: 3.7832085304211
+Comp Time: 1.5563552379608154s
+
+10 clusters:
+
+Compression method: gzip
+Comp Ratio: 4.303519473611786
+Comp Time: 2.5022010803222656s
+
+Compression method: lz4
+Comp Ratio: 2.32696778858506
+Comp Time: 1.5255050659179688s
+
+Compression method: zstd
+Comp Ratio: 3.781276571564887
+Comp Time: 1.6177904605865479s
+
+12 clusters:
+
+Compression method: gzip
+Comp Ratio: 4.29995062781266
+Comp Time: 2.870076894760132s
+
+Compression method: lz4
+Comp Ratio: 2.324992448692718
+Comp Time: 1.5543627738952637s
+
+Compression method: zstd
+Comp Ratio: 3.779729982773125
+Comp Time: 1.5362157821655273s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: flight
+
+Compression method: gzip
+Comp Ratio: 7.2217097996194655
+Comp Time: 2.275573492050171s
+
+Compression method: lz4
+Comp Ratio: 4.270544560477076
+Comp Time: 0.1455988883972168s
+
+Compression method: zstd
+Comp Ratio: 8.768682150562126
+Comp Time: 0.19213294982910156s
+
+--------------------------------------------------------------------------------------------
+
+Clustering:
+
+4 clusters:
+
+Compression method: gzip
+Comp Ratio: 9.276475830147577
+Comp Time: 3.4462199211120605s
+
+Compression method: lz4
+Comp Ratio: 5.4156433039903895
+Comp Time: 2.850412130355835s
+
+Compression method: zstd
+Comp Ratio: 10.095217063759065
+Comp Time: 2.841465711593628s
+
+6 clusters:
+
+Compression method: gzip
+Comp Ratio: 9.717886967232399
+Comp Time: 3.2449278831481934s
+
+Compression method: lz4
+Comp Ratio: 5.635623132036781
+Comp Time: 2.637216567993164s
+
+Compression method: zstd
+Comp Ratio: 10.377594205634475
+Comp Time: 2.701936721801758s
+
+8 clusters:
+
+Compression method: gzip
+Comp Ratio: 10.08440517070856
+Comp Time: 2.803466796875s
+
+Compression method: lz4
+Comp Ratio: 5.82648082143404
+Comp Time: 2.3877298831939697s
+
+Compression method: zstd
+Comp Ratio: 10.56209228977164
+Comp Time: 2.407763957977295s
+
+10 clusters:
+
+Compression method: gzip
+Comp Ratio: 10.221245925158781
+Comp Time: 2.437330961227417s
+
+Compression method: lz4
+Comp Ratio: 5.926002243542894
+Comp Time: 2.238821268081665s
+
+Compression method: zstd
+Comp Ratio: 10.74260224188829
+Comp Time: 2.223841428756714s
+
+12 clusters:
+
+Compression method: gzip
+Comp Ratio: 10.474770290020535
+Comp Time: 2.7675976753234863s
+
+Compression method: lz4
+Comp Ratio: 6.06501630457628
+Comp Time: 2.132943630218506s
+
+Compression method: zstd
+Comp Ratio: 10.867430487830546
+Comp Time: 2.1489737033843994s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: nypd
+
+Compression method: gzip
+Comp Ratio: 5.849014594521855
+Comp Time: 3.7403149604797363s
+
+Compression method: lz4
+Comp Ratio: 3.2680472453182063
+Comp Time: 0.2256298065185547s
+
+Compression method: zstd
+Comp Ratio: 6.092062471819926
+Comp Time: 0.34404468536376953s
+
+--------------------------------------------------------------------------------------------
+
+Clustering:
+
+4 clusters:
+
+Compression method: gzip
+Comp Ratio: 6.306931845610923
+Comp Time: 3.3734922409057617s
+
+Compression method: lz4
+Comp Ratio: 3.5237225079551995
+Comp Time: 2.1422948837280273s
+
+Compression method: zstd
+Comp Ratio: 7.256531939171327
+Comp Time: 2.171869993209839s
+
+6 clusters:
+
+Compression method: gzip
+Comp Ratio: 6.408725064218285
+Comp Time: 2.483814239501953s
+
+Compression method: lz4
+Comp Ratio: 3.5787393618215706
+Comp Time: 1.907611608505249s
+
+Compression method: zstd
+Comp Ratio: 7.36741731125765
+Comp Time: 1.8550200462341309s
+
+8 clusters:
+
+Compression method: gzip
+Comp Ratio: 6.424805624054053
+Comp Time: 2.536276340484619s
+
+Compression method: lz4
+Comp Ratio: 3.5874310045173603
+Comp Time: 1.7875752449035645s
+
+Compression method: zstd
+Comp Ratio: 7.276737578464417
+Comp Time: 2.0186750888824463s
+
+10 clusters:
+
+Compression method: gzip
+Comp Ratio: 6.390189049399048
+Comp Time: 2.0457680225372314s
+
+Compression method: lz4
+Comp Ratio: 3.5695817479869705
+Comp Time: 1.7028989791870117s
+
+Compression method: zstd
+Comp Ratio: 7.209674270358301
+Comp Time: 1.6518502235412598s
+
+12 clusters:
+
+Compression method: gzip
+Comp Ratio: 6.384605010438903
+Comp Time: 2.6404762268066406s
+
+Compression method: lz4
+Comp Ratio: 3.5676287766549417
+Comp Time: 1.6256041526794434s
+
+Compression method: zstd
+Comp Ratio: 7.202652013368955
+Comp Time: 1.6604948043823242s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: orders
+
+Training models for orders dataset with 10 clusters...
+DecisionTree model training time: 1.4901928901672363
+
+QDA model training time: 0.5448336601257324
+
+GaussianNB model training time: 0.3529937267303467
+
+LogisticRegression model training time: 2.573131799697876
+
+Testing models for orders dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 3.7356990181186447
+Comp Time: 5.073631048202515s
+
+Compression method: lz4
+Comp Ratio: 2.2088561789664767
+Comp Time: 3.682976484298706s
+
+Compression method: zstd
+Comp Ratio: 3.558000921039849
+Comp Time: 4.174010753631592s
+
+Compression method: gzip
+Comp Ratio: 3.7364320899527663
+Comp Time: 4.872957468032837s
+
+Compression method: lz4
+Comp Ratio: 2.2092670976020052
+Comp Time: 3.6408753395080566s
+
+Compression method: zstd
+Comp Ratio: 3.55842430668807
+Comp Time: 3.7101991176605225s
+
+Compression method: gzip
+Comp Ratio: 3.7361582189134315
+Comp Time: 4.541510343551636s
+
+Compression method: lz4
+Comp Ratio: 2.2090028015165712
+Comp Time: 3.6597018241882324s
+
+Compression method: zstd
+Comp Ratio: 3.5581106945202072
+Comp Time: 3.7212398052215576s
+
+Compression method: gzip
+Comp Ratio: 3.736517027615043
+Comp Time: 4.47048807144165s
+
+Compression method: lz4
+Comp Ratio: 2.209426404401593
+Comp Time: 3.7381956577301025s
+
+Compression method: zstd
+Comp Ratio: 3.5587030534308113
+Comp Time: 3.7163970470428467s
+
+Compression method: gzip
+Comp Ratio: 3.736236838069756
+Comp Time: 4.444214582443237s
+
+Compression method: lz4
+Comp Ratio: 2.20910148641679
+Comp Time: 3.549147605895996s
+
+Compression method: zstd
+Comp Ratio: 3.558183484459755
+Comp Time: 3.5790350437164307s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: partsupp
+
+Training models for partsupp dataset with 10 clusters...
+DecisionTree model training time: 0.5560989379882812
+
+QDA model training time: 0.20028090476989746
+
+MLP model training time: 8.992470264434814
+
+LogisticRegression model training time: 0.6039462089538574
+
+Testing models for partsupp dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 4.3035069371402646
+Comp Time: 2.5288994312286377s
+
+Compression method: lz4
+Comp Ratio: 2.3271561087224244
+Comp Time: 1.4923818111419678s
+
+Compression method: zstd
+Comp Ratio: 3.7812391889114005
+Comp Time: 1.5689425468444824s
+
+Compression method: gzip
+Comp Ratio: 4.303000838102112
+Comp Time: 2.4806203842163086s
+
+Compression method: lz4
+Comp Ratio: 2.326691595037761
+Comp Time: 1.4958384037017822s
+
+Compression method: zstd
+Comp Ratio: 3.7808600810418644
+Comp Time: 1.4853742122650146s
+
+Compression method: gzip
+Comp Ratio: 4.303563665256417
+Comp Time: 2.494870185852051s
+
+Compression method: lz4
+Comp Ratio: 2.3270339491698997
+Comp Time: 1.4997992515563965s
+
+Compression method: zstd
+Comp Ratio: 3.781224308643353
+Comp Time: 1.5736472606658936s
+
+Compression method: gzip
+Comp Ratio: 4.3031598625897205
+Comp Time: 2.440859079360962s
+
+Compression method: lz4
+Comp Ratio: 2.32691881201593
+Comp Time: 1.5090205669403076s
+
+Compression method: zstd
+Comp Ratio: 3.7807582405106213
+Comp Time: 1.559432029724121s
+
+Compression method: gzip
+Comp Ratio: 4.303538121748303
+Comp Time: 2.456310987472534s
+
+Compression method: lz4
+Comp Ratio: 2.327036240116266
+Comp Time: 1.5268645286560059s
+
+Compression method: zstd
+Comp Ratio: 3.7812618119823243
+Comp Time: 1.536764144897461s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: flight
+
+Training models for flight dataset with 10 clusters...
+DecisionTree model training time: 0.18417763710021973
+
+QDA model training time: 0.05352950096130371
+
+MLP model training time: 8.864351034164429
+
+GaussianNB model training time: 0.015425920486450195
+
+LogisticRegression model training time: 0.8509900569915771
+
+Testing models for flight dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 10.215361386188547
+Comp Time: 2.379512310028076s
+
+Compression method: lz4
+Comp Ratio: 5.923904474968684
+Comp Time: 2.257763385772705s
+
+Compression method: zstd
+Comp Ratio: 10.748068034572002
+Comp Time: 2.237614154815674s
+
+Compression method: gzip
+Comp Ratio: 8.73893760594196
+Comp Time: 3.1049253940582275s
+
+Compression method: lz4
+Comp Ratio: 5.153406248094875
+Comp Time: 2.6831891536712646s
+
+Compression method: zstd
+Comp Ratio: 9.896351741558487
+Comp Time: 2.7153425216674805s
+
+Compression method: gzip
+Comp Ratio: 10.133896145655397
+Comp Time: 2.4460959434509277s
+
+Compression method: lz4
+Comp Ratio: 5.8604062981148655
+Comp Time: 2.292654514312744s
+
+Compression method: zstd
+Comp Ratio: 10.67817764163838
+Comp Time: 2.3286423683166504s
+
+Compression method: gzip
+Comp Ratio: 10.455245379571664
+Comp Time: 2.410051107406616s
+
+Compression method: lz4
+Comp Ratio: 6.023111878050532
+Comp Time: 2.2848381996154785s
+
+Compression method: zstd
+Comp Ratio: 10.788484644000027
+Comp Time: 2.4630000591278076s
+
+Compression method: gzip
+Comp Ratio: 9.99990429880647
+Comp Time: 3.051475763320923s
+
+Compression method: lz4
+Comp Ratio: 5.81309260640465
+Comp Time: 2.70457124710083s
+
+Compression method: zstd
+Comp Ratio: 10.29792752496978
+Comp Time: 2.679375648498535s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: nypd
+
+Training models for nypd dataset with 10 clusters...
+DecisionTree model training time: 0.26782894134521484
+
+QDA model training time: 0.026920557022094727
+
+MLP model training time: 2.5990402698516846
+
+GaussianNB model training time: 0.009880542755126953
+
+LogisticRegression model training time: 0.4385209083557129
+
+Testing models for nypd dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 6.37439887578076
+Comp Time: 1.9475858211517334s
+
+Compression method: lz4
+Comp Ratio: 3.5605225152830853
+Comp Time: 1.6797616481781006s
+
+Compression method: zstd
+Comp Ratio: 7.18715834600965
+Comp Time: 1.656191110610962s
+
+Compression method: gzip
+Comp Ratio: 6.377318049933631
+Comp Time: 1.9625928401947021s
+
+Compression method: lz4
+Comp Ratio: 3.5586736172907365
+Comp Time: 1.7019855976104736s
+
+Compression method: zstd
+Comp Ratio: 7.226507417663497
+Comp Time: 1.7411115169525146s
+
+Compression method: gzip
+Comp Ratio: 6.406674088031725
+Comp Time: 1.9541900157928467s
+
+Compression method: lz4
+Comp Ratio: 3.577840572525658
+Comp Time: 1.6430187225341797s
+
+Compression method: zstd
+Comp Ratio: 7.246860703779565
+Comp Time: 1.6218047142028809s
+
+Compression method: gzip
+Comp Ratio: 6.277530070518123
+Comp Time: 2.540165901184082s
+
+Compression method: lz4
+Comp Ratio: 3.5150512752759555
+Comp Time: 1.8435273170471191s
+
+Compression method: zstd
+Comp Ratio: 7.208774128562578
+Comp Time: 1.8055500984191895s
+
+Compression method: gzip
+Comp Ratio: 6.367346423810145
+Comp Time: 2.200829029083252s
+
+Compression method: lz4
+Comp Ratio: 3.5512302410895686
+Comp Time: 1.7861607074737549s
+
+Compression method: zstd
+Comp Ratio: 7.111939196877623
+Comp Time: 1.802126407623291s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: orders
+
+Classifier: QDA with train size: 0.05
+Training models for orders dataset with 10 clusters...
+QDA model training time: 0.24861764907836914
+
+Testing models for orders dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 3.73639195681737
+Comp Time: 4.781412601470947s
+
+Compression method: lz4
+Comp Ratio: 2.209239465379382
+Comp Time: 3.6527864933013916s
+
+Compression method: zstd
+Comp Ratio: 3.5584156894143097
+Comp Time: 3.731663703918457s
+
+Classifier: QDA with train size: 0.1
+Training models for orders dataset with 10 clusters...
+QDA model training time: 0.494903564453125
+
+Testing models for orders dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 3.7364320899527663
+Comp Time: 4.460572242736816s
+
+Compression method: lz4
+Comp Ratio: 2.2092670976020052
+Comp Time: 3.6164655685424805s
+
+Compression method: zstd
+Comp Ratio: 3.55842430668807
+Comp Time: 3.657960891723633s
+
+Classifier: QDA with train size: 0.15
+Training models for orders dataset with 10 clusters...
+QDA model training time: 0.7526447772979736
+
+Testing models for orders dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 3.7363625537000775
+Comp Time: 4.430192947387695s
+
+Compression method: lz4
+Comp Ratio: 2.2092967922739337
+Comp Time: 3.6614651679992676s
+
+Compression method: zstd
+Comp Ratio: 3.558570063796659
+Comp Time: 3.7286345958709717s
+
+Classifier: QDA with train size: 0.2
+Training models for orders dataset with 10 clusters...
+QDA model training time: 0.9812891483306885
+
+Testing models for orders dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 3.736376559026921
+Comp Time: 4.493109941482544s
+
+Compression method: lz4
+Comp Ratio: 2.20933917370907
+Comp Time: 3.7010414600372314s
+
+Compression method: zstd
+Comp Ratio: 3.558395929271718
+Comp Time: 3.670029640197754s
+
+Classifier: QDA with train size: 0.25
+Training models for orders dataset with 10 clusters...
+QDA model training time: 1.24031400680542
+
+Testing models for orders dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 3.736374511457964
+Comp Time: 4.471643447875977s
+
+Compression method: lz4
+Comp Ratio: 2.2093367395961487
+Comp Time: 3.6222105026245117s
+
+Compression method: zstd
+Comp Ratio: 3.558295571935268
+Comp Time: 3.6504104137420654s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: partsupp
+
+Classifier: QDA with train size: 0.05
+Training models for partsupp dataset with 10 clusters...
+QDA model training time: 0.09738659858703613
+
+Testing models for partsupp dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 4.303036245493011
+Comp Time: 2.5329456329345703s
+
+Compression method: lz4
+Comp Ratio: 2.3268076259056856
+Comp Time: 1.5280044078826904s
+
+Compression method: zstd
+Comp Ratio: 3.7807465086403225
+Comp Time: 1.5933027267456055s
+
+Classifier: QDA with train size: 0.1
+Training models for partsupp dataset with 10 clusters...
+QDA model training time: 0.19432878494262695
+
+Testing models for partsupp dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 4.303000838102112
+Comp Time: 2.4324495792388916s
+
+Compression method: lz4
+Comp Ratio: 2.326691595037761
+Comp Time: 1.5709269046783447s
+
+Compression method: zstd
+Comp Ratio: 3.7808600810418644
+Comp Time: 1.558262825012207s
+
+Classifier: QDA with train size: 0.15
+Training models for partsupp dataset with 10 clusters...
+QDA model training time: 0.29804396629333496
+
+Testing models for partsupp dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 4.3030674232798285
+Comp Time: 2.4972736835479736s
+
+Compression method: lz4
+Comp Ratio: 2.3267400123545894
+Comp Time: 1.5338330268859863s
+
+Compression method: zstd
+Comp Ratio: 3.7808978190689353
+Comp Time: 1.5814528465270996s
+
+Classifier: QDA with train size: 0.2
+Training models for partsupp dataset with 10 clusters...
+QDA model training time: 0.38826918601989746
+
+Testing models for partsupp dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 4.303100324951852
+Comp Time: 2.424527168273926s
+
+Compression method: lz4
+Comp Ratio: 2.3267421653000495
+Comp Time: 1.5568671226501465s
+
+Compression method: zstd
+Comp Ratio: 3.780833471347453
+Comp Time: 1.5358574390411377s
+
+Classifier: QDA with train size: 0.25
+Training models for partsupp dataset with 10 clusters...
+QDA model training time: 0.5002949237823486
+
+Testing models for partsupp dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 4.302983291292471
+Comp Time: 2.46193790435791s
+
+Compression method: lz4
+Comp Ratio: 2.3268014873858833
+Comp Time: 1.5086781978607178s
+
+Compression method: zstd
+Comp Ratio: 3.780837583730301
+Comp Time: 1.625746488571167s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: flight
+
+Classifier: QDA with train size: 0.05
+Training models for flight dataset with 10 clusters...
+QDA model training time: 0.021123647689819336
+
+Testing models for flight dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 9.015614867506791
+Comp Time: 2.382129430770874s
+
+Compression method: lz4
+Comp Ratio: 5.300274487295112
+Comp Time: 2.2971699237823486s
+
+Compression method: zstd
+Comp Ratio: 10.076428560631731
+Comp Time: 2.4128613471984863s
+
+Classifier: QDA with train size: 0.1
+Training models for flight dataset with 10 clusters...
+QDA model training time: 0.037694454193115234
+
+Testing models for flight dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 8.73893760594196
+Comp Time: 3.11395525932312s
+
+Compression method: lz4
+Comp Ratio: 5.153406248094875
+Comp Time: 2.7231099605560303s
+
+Compression method: zstd
+Comp Ratio: 9.896351741558487
+Comp Time: 2.661440372467041s
+
+Classifier: QDA with train size: 0.15
+Training models for flight dataset with 10 clusters...
+QDA model training time: 0.06195235252380371
+
+Testing models for flight dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 8.707332086785273
+Comp Time: 3.1927709579467773s
+
+Compression method: lz4
+Comp Ratio: 5.128710599576134
+Comp Time: 2.6844887733459473s
+
+Compression method: zstd
+Comp Ratio: 9.882406985016157
+Comp Time: 2.7620317935943604s
+
+Classifier: QDA with train size: 0.2
+Training models for flight dataset with 10 clusters...
+QDA model training time: 0.08232259750366211
+
+Testing models for flight dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 8.979866691902787
+Comp Time: 2.5263559818267822s
+
+Compression method: lz4
+Comp Ratio: 5.274207024936287
+Comp Time: 2.4706690311431885s
+
+Compression method: zstd
+Comp Ratio: 10.07884683730187
+Comp Time: 2.3915791511535645s
+
+Classifier: QDA with train size: 0.25
+Training models for flight dataset with 10 clusters...
+QDA model training time: 0.09064579010009766
+
+Testing models for flight dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 8.913410630913786
+Comp Time: 2.5009710788726807s
+
+Compression method: lz4
+Comp Ratio: 5.250190439152036
+Comp Time: 2.4550375938415527s
+
+Compression method: zstd
+Comp Ratio: 10.036208045902097
+Comp Time: 2.507114887237549s
+
+--------------------------------------------------------------------------------------------
+
+Dataset: nypd
+
+Classifier: QDA with train size: 0.05
+Training models for nypd dataset with 10 clusters...
+QDA model training time: 0.022938251495361328
+
+Testing models for nypd dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 6.403862909843192
+Comp Time: 1.9729688167572021s
+
+Compression method: lz4
+Comp Ratio: 3.5719079132873683
+Comp Time: 1.6604268550872803s
+
+Compression method: zstd
+Comp Ratio: 7.248165547660122
+Comp Time: 1.7011523246765137s
+
+Classifier: QDA with train size: 0.1
+Training models for nypd dataset with 10 clusters...
+QDA model training time: 0.033537864685058594
+
+Testing models for nypd dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 6.377318049933631
+Comp Time: 1.9882690906524658s
+
+Compression method: lz4
+Comp Ratio: 3.5586736172907365
+Comp Time: 1.6795425415039062s
+
+Compression method: zstd
+Comp Ratio: 7.226507417663497
+Comp Time: 1.6673171520233154s
+
+Classifier: QDA with train size: 0.15
+Training models for nypd dataset with 10 clusters...
+QDA model training time: 0.045892953872680664
+
+Testing models for nypd dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 6.422306921342175
+Comp Time: 1.9715943336486816s
+
+Compression method: lz4
+Comp Ratio: 3.5844337111234728
+Comp Time: 1.6662704944610596s
+
+Compression method: zstd
+Comp Ratio: 7.316870773625634
+Comp Time: 1.6543898582458496s
+
+Classifier: QDA with train size: 0.2
+Training models for nypd dataset with 10 clusters...
+QDA model training time: 0.06258010864257812
+
+Testing models for nypd dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 6.422579357600946
+Comp Time: 1.9371585845947266s
+
+Compression method: lz4
+Comp Ratio: 3.5851568997131493
+Comp Time: 1.6189355850219727s
+
+Compression method: zstd
+Comp Ratio: 7.318565183099217
+Comp Time: 1.6399526596069336s
+
+Classifier: QDA with train size: 0.25
+Training models for nypd dataset with 10 clusters...
+QDA model training time: 0.060178279876708984
+
+Testing models for nypd dataset with 10 clusters...
+Compression method: gzip
+Comp Ratio: 6.422495606216443
+Comp Time: 1.9099531173706055s
+
+Compression method: lz4
+Comp Ratio: 3.5839654681748945
+Comp Time: 1.6430041790008545s
+
+Compression method: zstd
+Comp Ratio: 7.320369179856991
+Comp Time: 1.6395390033721924s
+
