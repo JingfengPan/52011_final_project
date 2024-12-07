@@ -26,4 +26,4 @@ Process of my experiment
 6. Explore the raltionship of different classifiers and compression ratio.
 7. Explore the raltionship of train size and compression ratio.
 
-<b>The link of downloading the datasets: shttps://drive.google.com/drive/folders/1UoQBW4KKNyCNKGbEKDz4TqpgysoUuI_A?usp=drive_link</b>
+<b>The link of downloading the datasets: https://drive.google.com/drive/folders/1UoQBW4KKNyCNKGbEKDz4TqpgysoUuI_A?usp=drive_link</b>
