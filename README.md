@@ -14,3 +14,16 @@ Week 5: Implement 3 compression methods in Python and see their performance with
 Week 6: Find some methods to help increase the compression rate, e.g. clustering or classification. <br>
 Week 7: Find some methods to help accelerate the compression time, e.g. pypy. <br>
 Week 8: Conclude the findings and prepare a final report.
+
+To run the experiment, just run the main function in the "main.py" file.
+
+Process of my experiment
+1. Clean and filter data, select useful columns (numeric and category here).
+2. Using K-prototypes/K-means to clustering, then compress each cluster and combine the total compressed size of each cluster, compared to compress the whole dataset directly using Gzip/LZ4/Zstd.
+3. Explore the raltionship of cluster numbers and compression ratio.
+4. Using a small part of dataset (maybe 10%) to cluster, then using the cluster labels to train a classifier model.
+5. Using the trained model to predict the whole dataset (give all labels), then compress each cluster and combine the total compressed size of each cluster, compared to compress the whole dataset directly and compress by the labels of clustering all data.
+6. Explore the raltionship of different classifiers and compression ratio.
+7. Explore the raltionship of train size and compression ratio.
+
+The link of downloading the datasets: shttps://drive.google.com/drive/folders/1UoQBW4KKNyCNKGbEKDz4TqpgysoUuI_A?usp=drive_link
